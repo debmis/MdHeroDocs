@@ -20,7 +20,7 @@ The app is fully offline. There are no accounts, no sign-in, no telemetry, and n
 
 MdHero ships for Windows, macOS, and Linux. Installation links and release notes are published with each tagged release.
 
-- **Microsoft Store**: search for "MdHero" — submission pending at the time of writing.
+- **Microsoft Store**: [apps.microsoft.com/detail/9P3G5KCMB6K7](https://apps.microsoft.com/detail/9P3G5KCMB6K7).
 - **Direct download**: [GitHub Releases](https://github.com/debmis/MdHero/releases) (Windows `.exe` installer, macOS `.dmg`, Linux `.AppImage` and `.deb`).
 
 ## Reporting issues
